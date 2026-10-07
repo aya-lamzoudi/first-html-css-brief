@@ -618,6 +618,14 @@ table h3{
 tr {
     text-align: center;  
 }
+.hero-texte {
+  text-align: center;
+  margin-bottom: 31px;
+}
+
+.hero-texte h1 {
+  color: #FF6B2C;
+}
 /* logo */
 .logo img {
     max-width: 100%;
